@@ -1,0 +1,7 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="1500" />
+    <option name="AUTOCOMPLETE_ON_SMART_TYPE_COMPLETION" value="false" />
+    <EXCLUDED_PACKAGE NAME="scala.package$" />
+  </component>
+</application>
