@@ -62855,6 +62855,11 @@
         <option name="FOREGROUND" value="2c5abb" />
       </value>
     </option>
+    <option name="org.rust.MODULE">
+      <value>
+        <option name="FOREGROUND" value="edcdff" />
+      </value>
+    </option>
     <option name="org.rust.UNSAFE_CODE">
       <value>
         <option name="BACKGROUND" value="bb4a46" />
