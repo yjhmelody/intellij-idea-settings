@@ -1,13 +1,13 @@
 <scheme name="Material Dark" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="LINE_SPACING" value="0.95" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -19,6 +19,7 @@
     <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="444444" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -663,6 +664,9 @@
         <option name="FOREGROUND" value="c3e887" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_COMMENT">
       <value>
         <option name="FOREGROUND" value="505c63" />
@@ -885,6 +889,14 @@
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
       </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
     </option>
     <option name="LABEL">
       <value>
@@ -62417,9 +62429,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="b39613" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
