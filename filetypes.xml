@@ -2,17 +2,18 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="Test" type="CLASS" />
-      <mapping pattern="Java" type="PLAIN_TEXT" />
-      <mapping pattern="antlr4" type="PLAIN_TEXT" />
       <mapping pattern="rust-toolchain" type="PLAIN_TEXT" />
+      <mapping pattern="Java" type="PLAIN_TEXT" />
       <mapping pattern="boot" type="PLAIN_TEXT" />
+      <mapping pattern="antlr4" type="PLAIN_TEXT" />
       <mapping pattern="grun" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="tiger" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="iasm" type="PLAIN_TEXT" />
       <mapping ext="lalrpop" type="PLAIN_TEXT" />
+      <mapping ext="" type="PLAIN_TEXT" />
+      <mapping pattern="Test" type="CLASS" />
     </extensionMap>
   </component>
 </application>
