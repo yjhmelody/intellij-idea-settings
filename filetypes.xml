@@ -12,6 +12,7 @@
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="iasm" type="PLAIN_TEXT" />
       <mapping ext="lalrpop" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="CLASS" />
     </extensionMap>
