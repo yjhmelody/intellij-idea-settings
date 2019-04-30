@@ -4,7 +4,7 @@
     <property name="created">2019-04-13T14:18:07</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-13T14:22:17</property>
+    <property name="modified">2019-04-30T23:47:54</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -31,6 +31,7 @@
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="c792ea" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
