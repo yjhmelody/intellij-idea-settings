@@ -1,14 +1,11 @@
 <scheme name="_@user_Material Oceanic" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-04-13T14:18:07</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-30T23:47:54</property>
+    <property name="modified">2019-05-15T23:24:04</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
