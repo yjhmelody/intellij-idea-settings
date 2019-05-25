@@ -9,6 +9,7 @@
       <mapping pattern="grun" type="PLAIN_TEXT" />
       <mapping ext="tiger" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="iasm" type="PLAIN_TEXT" />
       <mapping ext="lalrpop" type="PLAIN_TEXT" />
