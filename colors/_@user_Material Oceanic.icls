@@ -3,7 +3,7 @@
     <property name="created">2019-04-13T14:18:07</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-08-13T17:49:21</property>
+    <property name="modified">2019-09-17T17:04:47</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <colors>
@@ -26324,8 +26324,8 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
-    <option name="Scala Type Alias" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
-    <option name="Scala Type parameter" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="Scala Type Alias" baseAttributes="" />
+    <option name="Scala Type parameter" baseAttributes="" />
     <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="HTML_ATTRIBUTE_NAME" />
     <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="HTML_TAG_NAME" />
