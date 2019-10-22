@@ -1,11 +1,21 @@
 <scheme name="_@user_Material Oceanic" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-04-13T14:18:07</property>
+    <property name="created">2019-10-22T21:22:40</property>
     <property name="ide">CLion</property>
-    <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-09-08T19:56:05</property>
+    <property name="ideVersion">2019.2.4.0.0</property>
+    <property name="modified">2019-10-22T21:28:22</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -28,8 +38,7 @@
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_OBSOLETE" value="" />
-    <option name="FILESTATUS_SUPPRESSED" value="717cb4" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="c792ea" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
@@ -54,29 +63,29 @@
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="3b4950" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="9688" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="9688" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="9688c0" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="9688c0" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="263238" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="9688" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="9688" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="968880" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="968880" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="263238" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="9688" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="9688" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="263238" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="9688" />
-    <option name="ScrollBar.Mac.thumbColor" value="9688" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="9688c0" />
+    <option name="ScrollBar.Mac.thumbColor" value="9688c0" />
     <option name="ScrollBar.Mac.trackColor" value="263238" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="9688" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="9688" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="9688c0" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="9688c0" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="263238" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="9688" />
-    <option name="ScrollBar.Transparent.thumbColor" value="9688" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="968880" />
+    <option name="ScrollBar.Transparent.thumbColor" value="968880" />
     <option name="ScrollBar.Transparent.trackColor" value="263238" />
     <option name="ScrollBar.hoverThumbBorderColor" value="9688" />
     <option name="ScrollBar.hoverThumbColor" value="9688" />
     <option name="ScrollBar.hoverTrackColor" value="263238" />
-    <option name="ScrollBar.thumbBorderColor" value="9688" />
-    <option name="ScrollBar.thumbColor" value="9688" />
+    <option name="ScrollBar.thumbBorderColor" value="9688c0" />
+    <option name="ScrollBar.thumbColor" value="9688c0" />
     <option name="ScrollBar.trackColor" value="263238" />
     <option name="TEARLINE_COLOR" value="3b4950" />
     <option name="TOOLTIP" value="32424a" />
@@ -137,8 +146,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
       <value>
@@ -634,11 +646,35 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value />
     </option>
+    <option name="ELIXIR_ALIAS" baseAttributes="DEFAULT_CLASS_NAME" />
     <option name="ELIXIR_BIT">
       <value>
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
+    <option name="ELIXIR_BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="ELIXIR_BRACKET" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="ELIXIR_CALLBACK" baseAttributes="ELIXIR_SPECIFICATION" />
+    <option name="ELIXIR_CHAR_LIST" baseAttributes="DEFAULT_STRING" />
+    <option name="ELIXIR_CHAR_TOKEN" baseAttributes="DEFAULT_ENTITY" />
+    <option name="ELIXIR_DOT" baseAttributes="DEFAULT_DOT" />
+    <option name="ELIXIR_EXPRESSION_SUBSTITUTION_MARK" baseAttributes="DEFAULT_BRACES" />
+    <option name="ELIXIR_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="ELIXIR_IGNORED_VARIABLE" baseAttributes="ELIXIR_VARIABLE" />
+    <option name="ELIXIR_MACRO_CALL" baseAttributes="ELIXIR_FUNCTION_CALL" />
+    <option name="ELIXIR_MAP" baseAttributes="DEFAULT_BRACES" />
+    <option name="ELIXIR_OPERATION_SIGN" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="ELIXIR_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="ELIXIR_PARENTHESES" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="ELIXIR_PREDEFINED" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="ELIXIR_SIGIL" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="ELIXIR_SPECIFICATION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="ELIXIR_STRING" baseAttributes="DEFAULT_STRING" />
+    <option name="ELIXIR_STRUCT" baseAttributes="ELIXIR_MAP" />
+    <option name="ELIXIR_TYPE" baseAttributes="DEFAULT_METADATA" />
+    <option name="ELIXIR_TYPE_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="ELIXIR_VALID_ESCAPE_SEQUENCE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="ELIXIR_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="ENUM_CONST">
       <value>
         <option name="FOREGROUND" value="9373a5" />
@@ -995,11 +1031,10 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="JS.DECORATOR">
-      <value>
-        <option name="FOREGROUND" value="82aaff" />
-      </value>
-    </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -1011,6 +1046,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="ff4965" />
@@ -1028,6 +1064,11 @@
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="JUPYTER_SELECTED_CELL">
+      <value>
+        <option name="BACKGROUND" value="32424a" />
+      </value>
+    </option>
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -1143,6 +1184,7 @@
         <option name="FOREGROUND" value="908b25" />
       </value>
     </option>
+    <option name="MAKO.SUBSTITUTION" baseAttributes="" />
     <option name="MARKDOWN.AUTO_LINK">
       <value>
         <option name="FOREGROUND" value="ff355b" />
@@ -2148,7 +2190,12 @@
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="607d8b" />
+        <option name="BACKGROUND" value="415967" />
+      </value>
+    </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="415967" />
       </value>
     </option>
     <option name="OC.BLOCK_COMMENT">
@@ -2286,6 +2333,10 @@
         <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
+    <option name="PY.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ff5370" />
@@ -2297,6 +2348,7 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
+    <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
     <option name="RDOC_DIRECTIVE">
       <value>
         <option name="FOREGROUND" value="f07178" />
@@ -2628,6 +2680,11 @@
         <option name="BACKGROUND" value="32424a" />
       </value>
     </option>
+    <option name="SELECTED_CELL">
+      <value>
+        <option name="BACKGROUND" value="411f7e" />
+      </value>
+    </option>
     <option name="SLIM_CLASS">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -2856,6 +2913,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="org.rust.MACRO" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="org.rust.MUT_BINDING" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="org.rust.MUT_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="org.rust.TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
