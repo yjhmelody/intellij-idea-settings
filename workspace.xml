@@ -1,0 +1,11 @@
+<application>
+  <component name="InlayHintsSettings">
+    <settingsMapElement>
+      <Rust.rust.type.hints>
+        <Settings>
+          <option name="showObviousTypes" value="true" />
+        </Settings>
+      </Rust.rust.type.hints>
+    </settingsMapElement>
+  </component>
+</application>

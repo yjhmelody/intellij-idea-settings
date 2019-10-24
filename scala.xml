@@ -1,7 +1,8 @@
 <application>
   <component name="ScalaSettings">
     <option name="COMPILE_SERVER_ID" value="d762064b-5ee6-4b59-9ee8-b2457805f1c0" />
-    <option name="COMPILE_SERVER_SDK" value="1.8" />
-    <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="2048" />
+    <option name="COMPILE_SERVER_SDK" value="11" />
+    <option name="COMPILE_SERVER_MAXIMUM_HEAP_SIZE" value="30000" />
+    <option name="COMPILE_SERVER_JVM_PARAMETERS" value="-server -Xss2m" />
   </component>
 </application>
