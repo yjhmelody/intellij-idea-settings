@@ -3,7 +3,7 @@
     <property name="created">2019-04-13T14:18:07</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-11-05T15:15:43</property>
+    <property name="modified">2019-11-13T11:31:46</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <colors>
@@ -343,7 +343,6 @@
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="89ddf7" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
